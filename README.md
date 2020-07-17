@@ -1,7 +1,6 @@
-### Hi there 👋
+### 来看一看新彩蛋 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Go
